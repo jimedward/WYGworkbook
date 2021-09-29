@@ -1,0 +1,27 @@
+input {
+  width: inherit;
+}
+label {
+}
+
+.instructions {
+  background-color: #B4D8E0;
+  width: 70%;
+  padding: 1em;
+  margin: auto;
+}
+input[type=radio] {
+  clear: left;
+  float: left;
+  margin: 0px 6px 7px 2px;
+  width: auto;
+}
+.page {
+  margin-left: 1em;
+  font-size: 90%;
+}
+
+div.return {
+  padding-top: 3em;
+  margin: auto;
+}

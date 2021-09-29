@@ -1,0 +1,128 @@
+
+
+
+  body {
+    background-color: #ffffff;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+* {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+div.error {
+	border: 1px solid red;
+	background-color: #F9E7A1;
+	width: 50em;
+	height: 9ex;
+	padding: 1em;
+	margin: auto;
+	text-align: center;
+}
+
+.instructions {
+	font-size: smaller;
+	width: 70%;
+	background-color: #CECDBA;
+	padding: 1em;
+	margin: auto;
+	border: 1px solid black;
+	text-align: left;
+}
+
+h1 {
+	font-size: 1.5em;
+	margin: 10px auto;
+	text-align: center;
+}
+h1, h3 {
+	color: #003471;
+}
+
+#evalform table td {
+	font-size: 70%;
+}
+
+table .questioncell {
+	width: 50em;
+	padding-left: 2em;
+}
+
+table .selectionverify {
+	margin-left: 1em;
+}
+
+div.center { text-align: center; }
+div.nowrap { white-space: nowrap; }
+#header  h1  a {
+	color: #fff;
+	background: #003d4c;
+	font-weight: normal;
+	text-decoration: none;
+	font-size:90%;
+	
+}
+#header h1 {
+  font-size: 100%;
+	margin: 0.1em 0;
+	text-align: left;
+	padding-left: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#header {
+	background: #003d4c;
+	color: #fff;
+	text-align: left;
+}
+
+#footer {
+  background: #003d4c;
+	color: #fff;
+	clear: both;
+	padding: 6px 10px;
+	text-align: right;
+	margin-top: 2em;
+  
+}
+
+#footer a {
+  color: #fff;
+}
+
+img.results {
+	float: left;
+}
+table.results {
+	font-size: 70%;
+}
+table.results th {
+	text-align: left;
+}
+td.warning {
+	color: #f00;
+}
+
+#submit {
+	text-align: center;
+}
+#begin {
+  margin-top: 1em;
+}
+#errorplaceholder {
+
+	margin: 1ex auto .5ex auto;
+	width: 30em;
+	background-color: #F6A172;
+	border: 1px solid black;
+	padding: 2em;
+}
+
+table.participantinfo {
+	margin: auto;
+}
+table.participantinfo th {
+	text-align: left;
+	padding-right: 3em;
+	
+}
